@@ -4,6 +4,7 @@
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
+
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
